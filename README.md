@@ -1,2 +1,2 @@
-# blog
+# BLOG
 wimux's blog
